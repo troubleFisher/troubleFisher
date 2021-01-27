@@ -1,4 +1,4 @@
-### Hi :lollipop:, I'm troubleFisher
+### Hi , I'm troubleFisher
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=troubleFisher)]()
 
@@ -6,7 +6,7 @@
 :Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
 - ⚡ C++ / Python.
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
-- ✍️ [Blogger](https://haysc.tech)
+- ✍️ [Blog](https://)
 -  Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
