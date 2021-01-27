@@ -3,7 +3,7 @@
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=troubleFisher)]()
 
 
-:Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
+:Junior at 🇨🇳 [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/), _BSc in Computer Science_
 - ⚡ JavaScript / TypeScript / React / Node.js .
 - 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✏️[Blog](https://github.com/troubleFisher/BLOG)
