@@ -4,7 +4,7 @@
 
 
 :Junior at 🇨🇳 [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/), _BSc in Computer Science_
-- ⚡ JavaScript / TypeScript / React / Node.js .
+- ⚡ JavaScript / TypeScript / React / Node.js / HTML / CSS .
 - 🖋 [Blog](https://troublefisher.github.io/)
 - 🎮 Werewolves of Miller's Hollow / Adventure Game
 
